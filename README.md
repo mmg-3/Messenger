@@ -1,5 +1,3 @@
-<img src="https://relatedcode.com/github/header14.png" width="880">
-
 ## OVERVIEW
 
 This is a native iOS Messenger app, with audio/video calls and realtime chat conversations (full offline support).
